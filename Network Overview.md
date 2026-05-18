@@ -24,7 +24,7 @@ A DMZ is used to host a public-facing web server that is accessible from externa
 ## 1.3 Topology Diagrams
 
 ### Logical Topology
-![[./Network-Project/images/logicaltopology.png]]
+![[Network-Project/images/logicaltopology.png]]
 
 #### Traffic Flow
 
