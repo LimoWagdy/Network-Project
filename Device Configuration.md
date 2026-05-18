@@ -559,6 +559,7 @@ Default Gateway: 192.168.10.1
 
 #### Limo Send (192.168.20.11)
 <img src="/images/EMAILSend.png" width="500" height="175">
+
 #### Sara Receive (192.168.40.12) 
 <img src="/images/EMAILreceive.png" width="500" height="175">
 
@@ -588,6 +589,7 @@ Default Gateway: 192.168.10.1
 
 #### Limo Put (192.168.20.11)
 <img src="/images/FTPput.png" width="400" height="300">
+
 #### Essam Get (192.168.20.12)
 <img src="/images/FTPget.png" width="400" height="300">
 
