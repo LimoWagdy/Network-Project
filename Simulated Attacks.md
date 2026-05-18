@@ -15,7 +15,7 @@ A device in the Guest network (192.168.50.0/24) attempts to access internal syst
 - No response should be received from internal devices
 
 ### Failed Telnet, SSH, and FTP to Inside
-<img src="./images/ATTACKfailedTelnetSSHFTP.png" width="500" height="300">
+<img src="/images/ATTACKfailedTelnetSSHFTP.png" width="500" height="300">
 
 ### Failed HTTP to Inside
 <img src="/images/ATTACKfailedHTTPinside.png" width="550" height="250">
