@@ -561,7 +561,7 @@ Default Gateway: 192.168.10.1
 <img src="/images/EMAILSend.png" width="500" height="175">
 
 #### Sara Receive (192.168.40.12) 
-<img src="/images/EMAILreceive.png" width="500" height="175">
+<img src="/images/EMAILReceive.png" width="500" height="175">
 
 ### 4.4 Syslog server
 Due to Packet Tracer limitations, hostnames could not be resolved correctly in the syslog server. As a result, logs display device IP addresses instead of hostnames.
